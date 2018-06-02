@@ -1,0 +1,19 @@
+{
+  "name": "oled-ssd1306",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "canvas": "^1.6.10",
+    "fs": "0.0.1-security",
+    "i2c": "^0.2.3",
+    "oled-js-pi": "^1.0.5",
+    "oled-ssd1306-i2c": "^1.0.6"
+  }
+}
